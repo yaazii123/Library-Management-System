@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\Lib\obj\Debug\net9.0\refint\Lib.dll
 C:\Users\DELL\Desktop\Lib\obj\Debug\net9.0\Lib.pdb
 C:\Users\DELL\Desktop\Lib\obj\Debug\net9.0\Lib.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Lib\obj\Debug\net9.0\ref\Lib.dll
+C:\Users\DELL\Desktop\Lib\obj\Debug\net9.0\lib.sourcelink.json
